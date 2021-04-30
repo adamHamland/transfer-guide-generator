@@ -9,4 +9,4 @@ The other important task that the Node server has to accomplish is authenticatio
 
 Here is a breif example of how this tool works.
 First you open up a saved transfer guide or a create a new one. Then enter or modifiy the information in the input fields.
-![Editor](/editor.png)
+![Editor](Editor.PNG)
