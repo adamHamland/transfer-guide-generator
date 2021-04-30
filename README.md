@@ -1,1 +1,3 @@
-# transfer-guide-generator
+# Transfer Guide Generator
+
+The two main components of this web app are its Vue.js front end and its Node.js backend. My focus area on this project was developing the back end server. The main hurdle for this project was coming up with a good way to generate a custom styled PDF filled with information provided by the user. This task was accomplished by creating a LaTex template with empty places for the entered data to be injected into the document. Then using a Node plugin, node-latex, at the users request the server populates the LaTex template and compiles it into a PDF that is then served back to the front end. More information about the node-latex Node plugin can be found here: [PDF-LaTex](https://www.npmjs.com/package/node-latex?activeTab=readme)
