@@ -10,3 +10,6 @@ The other important task that the Node server has to accomplish is authenticatio
 Here is a breif example of how this tool works.
 First you open up a saved transfer guide or a create a new one. Then enter or modifiy the information in the input fields.
 ![Editor](Editor.PNG)
+
+When you are ready to see how the document is shaping up, you can press the preview button and a preview of the transfer guide will be displayed to you.
+![Preview](Preview.PNG)
