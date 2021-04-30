@@ -13,3 +13,5 @@ First you open up a saved transfer guide or a create a new one. Then enter or mo
 
 When you are ready to see how the document is shaping up, you can press the preview button and a preview of the transfer guide will be displayed to you.
 ![Preview](Preview.PNG)
+
+Lastly, when you are done. You can click the export button and you will get a downloadable PDF of the transfer guide.
